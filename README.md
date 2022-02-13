@@ -16,6 +16,8 @@
  -  "chmod +x noderedUpdater.sh";
  -  "./noderedUpdater.sh"  
 
+get bash [here](https://github.com/william89731/nodered-nodes-updater/blob/main/noderedUpdater.sh)
+
 enjoy :)
    
  
