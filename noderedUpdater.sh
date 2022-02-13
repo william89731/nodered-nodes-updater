@@ -1,7 +1,7 @@
 #!/bin/bash
 
-CONTAINER_NAME=nodered; #set name container
-DIRECTORY=/home/$USER/docker/.nodered; # set directory nodered
+DIRECTORY= ; # set directory nodered
+CONTAINER_NAME= ; #set name container
 BASE_DIR=${BASE_DIR:-${DIRECTORY}}; 
 function info { echo -e "\e[32m[info] $*\e[39m"; }
 function warn  { echo -e "\e[33m[warn] $*\e[39m"; }
